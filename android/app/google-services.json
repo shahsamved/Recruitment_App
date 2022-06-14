@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1076691432666",
+    "project_id": "recruitment-otp",
+    "storage_bucket": "recruitment-otp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076691432666:android:cd28e5b972cd73db96e1e3",
+        "android_client_info": {
+          "package_name": "com.example.recruitment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076691432666-j5lorrh9fo87ei6gi206stitqo68a7v1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.recruitment",
+            "certificate_hash": "1ea0d26e26f1c02964f0ad1c547e597c1fca10eb"
+          }
+        },
+        {
+          "client_id": "1076691432666-3ji4n40dg5tjao2hntg178jvp44hkrnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4TgxI_06DAPAcAu0duW2pnXYxFdwZdzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076691432666-3ji4n40dg5tjao2hntg178jvp44hkrnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1076691432666-3ji4n40dg5tjao2hntg178jvp44hkrnj.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1076691432666</string>
+    <string name="google_api_key" translatable="false">AIzaSyB4TgxI_06DAPAcAu0duW2pnXYxFdwZdzU</string>
+    <string name="google_app_id" translatable="false">1:1076691432666:android:cd28e5b972cd73db96e1e3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB4TgxI_06DAPAcAu0duW2pnXYxFdwZdzU</string>
+    <string name="google_storage_bucket" translatable="false">recruitment-otp.appspot.com</string>
+    <string name="project_id" translatable="false">recruitment-otp</string>
+</resources>
