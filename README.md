@@ -1,16 +1,9 @@
 # recruitment
 
-A new Flutter project.
 
 ## Getting Started
+This application provides a platform where candidates can find and apply for jobs and recruiters can find candidates and provide them jobs.
+Companies can register and post jobs which will be shown to candidates registered. 
+Candidates can apply for these jobs and companies can accept/reject them based on their skills posted and resume. 
+The frontend part of the application was done using flutter and the backendpart was done using Laravel.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
